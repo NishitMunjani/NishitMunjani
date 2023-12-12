@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nishit Munjani
-- 🌱 I’m currently Pursuing my BE Degree
+- 🌱 I’m currently Pursuing Mtech Degree from DA-IICT (Specialzing in ML).
 - 📫 How to reach me on nishit3j@gmail.com
 
 <!---
